@@ -82,7 +82,7 @@ To maintain consistency when adding new references, please follow this format:
 
 ### Example Entry:
 ```markdown
-| Vision Transformers for Remote Sensing | 2023 | [arXiv](https://arxiv.org/abs/2103.14030) | Paper | Applies ViT to satellite image classification |
+| Deep Learning for Remote Sensing | 2023 | [IEEE](https://ieeexplore.ieee.org/document/xxxxxxx) | Paper | Comprehensive review of DL applications |
 ```
 
 ### Tips:
