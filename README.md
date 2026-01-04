@@ -38,31 +38,31 @@ This repository serves as a comprehensive collection of references for the final
 
 | Title | Year | Source Website | Type | Notes |
 |-------|------|----------------|------|-------|
-| *Example: Vision Transformers for Remote Sensing Image Classification* | 2023 | [Link](https://example.com) | Paper | Add your references here |
+| <!-- Add your references here --> | | | | |
 
 ### Multimodal Large Language Models (MLLMs)
 
 | Title | Year | Source Website | Type | Notes |
 |-------|------|----------------|------|-------|
-| *Example: LLaVA: Large Language and Vision Assistant* | 2023 | [Link](https://example.com) | Paper | Add your references here |
+| <!-- Add your references here --> | | | | |
 
 ### Remote Sensing Applications
 
 | Title | Year | Source Website | Type | Notes |
 |-------|------|----------------|------|-------|
-| *Example: Deep Learning for Remote Sensing Applications* | 2023 | [Link](https://example.com) | Survey | Add your references here |
+| <!-- Add your references here --> | | | | |
 
 ### Datasets and Benchmarks
 
 | Dataset Name | Year | Source Website | Description | Notes |
 |--------------|------|----------------|-------------|-------|
-| *Example: RESISC45* | 2017 | [Link](https://example.com) | Remote sensing image classification dataset | Add your datasets here |
+| <!-- Add your datasets here --> | | | | |
 
 ### Survey Papers and Reviews
 
 | Title | Year | Source Website | Focus Area | Notes |
 |-------|------|----------------|------------|-------|
-| *Example: Multimodal Learning Survey* | 2023 | [Link](https://example.com) | General multimodal learning | Add survey papers here |
+| <!-- Add your survey papers here --> | | | | |
 
 ---
 
@@ -82,7 +82,7 @@ To maintain consistency when adding new references, please follow this format:
 
 ### Example Entry:
 ```markdown
-| Vision Transformers for Remote Sensing | 2023 | [arXiv](https://arxiv.org/abs/xxxx.xxxxx) | Paper | Applies ViT to satellite image classification |
+| Vision Transformers for Remote Sensing | 2023 | [arXiv](https://arxiv.org/abs/2103.14030) | Paper | Applies ViT to satellite image classification |
 ```
 
 ### Tips:
