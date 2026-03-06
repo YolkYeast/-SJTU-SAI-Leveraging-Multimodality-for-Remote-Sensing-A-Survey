@@ -2,8 +2,6 @@
 
 **A Journey from Multimodal Vision to Multimodal Large Language Models**
 
-*Final Project for SJTU-SAI Course*  
-*Author: Yan Zhou*
 
 ---
 
