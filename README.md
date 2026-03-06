@@ -99,4 +99,3 @@ This repository is maintained for academic purposes as part of the SJTU-SAI cour
 ---
 
 **Last Updated:** January 2026  
-**Repository Maintainer:** Yan Zhou
